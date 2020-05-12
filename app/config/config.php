@@ -26,5 +26,9 @@ return new \Phalcon\Config([
         'libraryDir'     => APP_PATH . '/library/',
         'cacheDir'       => BASE_PATH . '/cache/',
         'baseUri'        => '/',
+    ],
+    'mail' => [
+        'mail'      => 'arnaudguillardcontactpro@gmail.com',
+        'password'  => 'password'
     ]
 ]);

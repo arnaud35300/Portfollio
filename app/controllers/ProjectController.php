@@ -6,8 +6,27 @@ class ProjectController extends ControllerBase
 
     public function indexAction()
     {
-        echo 'eeee';
+    
     }
 
+    public function skillAction()
+    {
+
+    }
+
+    public function projectAction()
+    {
+        
+    }
+
+    public function shellAction()
+    {
+        
+    }
+
+    public function contactAction()
+    {
+        
+    } 
 }
 
