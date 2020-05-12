@@ -4,7 +4,7 @@ declare(strict_types=1);
 class ProjectController extends ControllerBase
 {
 
-    public function indexAction()
+    public function homeAction()
     {
     
     }
